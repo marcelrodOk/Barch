@@ -1,0 +1,17 @@
+C:\Users\marce\source\repos\DataTransferApp\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\marce\source\repos\DataTransferApp\Business\bin\Debug\net8.0\Business.dll
+C:\Users\marce\source\repos\DataTransferApp\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\marce\source\repos\DataTransferApp\Business\bin\Debug\net8.0\Service.dll
+C:\Users\marce\source\repos\DataTransferApp\Business\bin\Debug\net8.0\Service.pdb
+C:\Users\marce\source\repos\DataTransferApp\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\DataTransferApp\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\DataTransferApp\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\DataTransferApp\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\marce\source\repos\DataTransferApp\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\DataTransferApp\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\marce\source\repos\DataTransferApp\Business\obj\Debug\net8.0\Business.dll
+C:\Users\marce\source\repos\DataTransferApp\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\marce\source\repos\DataTransferApp\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\marce\source\repos\DataTransferApp\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\marce\source\repos\DataTransferApp\Business\bin\Debug\net8.0\TransactionBatch.Data.dll
+C:\Users\marce\source\repos\DataTransferApp\Business\bin\Debug\net8.0\TransactionBatch.Data.pdb

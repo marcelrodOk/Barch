@@ -1,0 +1,12 @@
+C:\Users\marce\source\repos\DataTransferApp\CommonServices\bin\Debug\net8.0\CommonServices.deps.json
+C:\Users\marce\source\repos\DataTransferApp\CommonServices\bin\Debug\net8.0\CommonServices.dll
+C:\Users\marce\source\repos\DataTransferApp\CommonServices\bin\Debug\net8.0\CommonServices.pdb
+C:\Users\marce\source\repos\DataTransferApp\CommonServices\obj\Debug\net8.0\CommonServices.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\DataTransferApp\CommonServices\obj\Debug\net8.0\CommonServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\DataTransferApp\CommonServices\obj\Debug\net8.0\CommonServices.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\DataTransferApp\CommonServices\obj\Debug\net8.0\CommonServices.AssemblyInfo.cs
+C:\Users\marce\source\repos\DataTransferApp\CommonServices\obj\Debug\net8.0\CommonServices.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\DataTransferApp\CommonServices\obj\Debug\net8.0\CommonServices.dll
+C:\Users\marce\source\repos\DataTransferApp\CommonServices\obj\Debug\net8.0\refint\CommonServices.dll
+C:\Users\marce\source\repos\DataTransferApp\CommonServices\obj\Debug\net8.0\CommonServices.pdb
+C:\Users\marce\source\repos\DataTransferApp\CommonServices\obj\Debug\net8.0\ref\CommonServices.dll

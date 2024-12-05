@@ -1,0 +1,17 @@
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\bin\Debug\net8.0\TransactionBatch2.Business.deps.json
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\bin\Debug\net8.0\TransactionBatch2.Business.dll
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\bin\Debug\net8.0\TransactionBatch2.Business.pdb
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\bin\Debug\net8.0\CommonServices.dll
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\bin\Debug\net8.0\TransactionBatch2.Data.dll
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\bin\Debug\net8.0\CommonServices.pdb
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\bin\Debug\net8.0\TransactionBatch2.Data.pdb
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\obj\Debug\net8.0\TransactionBatch2.Business.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\obj\Debug\net8.0\TransactionBatch2.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\obj\Debug\net8.0\TransactionBatch2.Business.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\obj\Debug\net8.0\TransactionBatch2.Business.AssemblyInfo.cs
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\obj\Debug\net8.0\TransactionBatch2.Business.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\obj\Debug\net8.0\Transact.BB535E35.Up2Date
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\obj\Debug\net8.0\TransactionBatch2.Business.dll
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\obj\Debug\net8.0\refint\TransactionBatch2.Business.dll
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\obj\Debug\net8.0\TransactionBatch2.Business.pdb
+C:\Users\marce\source\repos\DataTransferApp\TransactionBatch2.Business\obj\Debug\net8.0\ref\TransactionBatch2.Business.dll

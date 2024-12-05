@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5480A20-D3CF-4933-BDE4-3BC5B4634477}|TransactionBatch2.Business\\TransactionBatch2.Business.csproj|c:\\users\\marce\\source\\repos\\datatransferapp\\transactionbatch2.business\\datatransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5480A20-D3CF-4933-BDE4-3BC5B4634477}|TransactionBatch2.Business\\TransactionBatch2.Business.csproj|solutionrelative:transactionbatch2.business\\datatransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBEA8EA-7DD2-46F2-A86B-1ABFD1CB712B}|CommonServices\\CommonServices.csproj|c:\\users\\marce\\source\\repos\\datatransferapp\\commonservices\\queryexecutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBEA8EA-7DD2-46F2-A86B-1ABFD1CB712B}|CommonServices\\CommonServices.csproj|solutionrelative:commonservices\\queryexecutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763296D0-EAD1-4B5D-A3D0-76A143B4AD66}|TRansactionBatch2App\\TRansactionBatch2App.csproj|c:\\users\\marce\\source\\repos\\datatransferapp\\transactionbatch2app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763296D0-EAD1-4B5D-A3D0-76A143B4AD66}|TRansactionBatch2App\\TRansactionBatch2App.csproj|solutionrelative:transactionbatch2app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763296D0-EAD1-4B5D-A3D0-76A143B4AD66}|TRansactionBatch2App\\TRansactionBatch2App.csproj|c:\\users\\marce\\source\\repos\\datatransferapp\\transactionbatch2app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{763296D0-EAD1-4B5D-A3D0-76A143B4AD66}|TRansactionBatch2App\\TRansactionBatch2App.csproj|solutionrelative:transactionbatch2app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E7535E-7DB7-42C2-8305-E94E9FA06149}|DataTransferApp\\TransactionBatch.csproj|c:\\users\\marce\\source\\repos\\datatransferapp\\datatransferapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97E7535E-7DB7-42C2-8305-E94E9FA06149}|DataTransferApp\\TransactionBatch.csproj|solutionrelative:datatransferapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5480A20-D3CF-4933-BDE4-3BC5B4634477}|TransactionBatch2.Business\\TransactionBatch2.Business.csproj|c:\\users\\marce\\source\\repos\\datatransferapp\\transactionbatch2.business\\idatatransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5480A20-D3CF-4933-BDE4-3BC5B4634477}|TransactionBatch2.Business\\TransactionBatch2.Business.csproj|solutionrelative:transactionbatch2.business\\idatatransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE61D4B-C086-441A-B387-7ABA5C1C6596}|TransactionBatch2.Data\\TransactionBatch2.Data.csproj|c:\\users\\marce\\source\\repos\\datatransferapp\\transactionbatch2.data\\idatalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE61D4B-C086-441A-B387-7ABA5C1C6596}|TransactionBatch2.Data\\TransactionBatch2.Data.csproj|solutionrelative:transactionbatch2.data\\idatalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE61D4B-C086-441A-B387-7ABA5C1C6596}|TransactionBatch2.Data\\TransactionBatch2.Data.csproj|c:\\users\\marce\\source\\repos\\datatransferapp\\transactionbatch2.data\\datalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE61D4B-C086-441A-B387-7ABA5C1C6596}|TransactionBatch2.Data\\TransactionBatch2.Data.csproj|solutionrelative:transactionbatch2.data\\datalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE63DAC0-C5F3-4572-AA64-695897942044}|Business\\TrantactionBatch.Business.csproj|c:\\users\\marce\\source\\repos\\datatransferapp\\business\\idatatransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE63DAC0-C5F3-4572-AA64-695897942044}|Business\\TrantactionBatch.Business.csproj|solutionrelative:business\\idatatransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE63DAC0-C5F3-4572-AA64-695897942044}|Business\\TrantactionBatch.Business.csproj|c:\\users\\marce\\source\\repos\\datatransferapp\\business\\datatransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE63DAC0-C5F3-4572-AA64-695897942044}|Business\\TrantactionBatch.Business.csproj|solutionrelative:business\\datatransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E573089B-9940-404F-B38D-0338204E4166}|TransactionBatch.Data\\TransactionBatch.Data.csproj|c:\\users\\marce\\source\\repos\\datatransferapp\\transactionbatch.data\\idatalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E573089B-9940-404F-B38D-0338204E4166}|TransactionBatch.Data\\TransactionBatch.Data.csproj|solutionrelative:transactionbatch.data\\idatalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E573089B-9940-404F-B38D-0338204E4166}|TransactionBatch.Data\\TransactionBatch.Data.csproj|c:\\users\\marce\\source\\repos\\datatransferapp\\transactionbatch.data\\datalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E573089B-9940-404F-B38D-0338204E4166}|TransactionBatch.Data\\TransactionBatch.Data.csproj|solutionrelative:transactionbatch.data\\datalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBEA8EA-7DD2-46F2-A86B-1ABFD1CB712B}|CommonServices\\CommonServices.csproj|c:\\users\\marce\\source\\repos\\datatransferapp\\commonservices\\iqueryexecutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBEA8EA-7DD2-46F2-A86B-1ABFD1CB712B}|CommonServices\\CommonServices.csproj|solutionrelative:commonservices\\iqueryexecutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBEA8EA-7DD2-46F2-A86B-1ABFD1CB712B}|CommonServices\\CommonServices.csproj|c:\\users\\marce\\source\\repos\\datatransferapp\\commonservices\\commonservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEBEA8EA-7DD2-46F2-A86B-1ABFD1CB712B}|CommonServices\\CommonServices.csproj|solutionrelative:commonservices\\commonservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marce\\source\\repos\\DataTransferApp\\Data\\IDataLayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\IDataLayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marce\\source\\repos\\DataTransferApp\\Data\\DataLayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\DataLayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TRansactionBatch2App\\Program.cs",
+              "RelativeDocumentMoniker": "TRansactionBatch2App\\Program.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TRansactionBatch2App\\Program.cs",
+              "RelativeToolTip": "TRansactionBatch2App\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:18:38.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataTransferService.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TransactionBatch2.Business\\IDataTransferService.cs",
+              "RelativeDocumentMoniker": "TransactionBatch2.Business\\IDataTransferService.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TransactionBatch2.Business\\IDataTransferService.cs",
+              "RelativeToolTip": "TransactionBatch2.Business\\IDataTransferService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:24:47.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TRansactionBatch2App\\appsettings.json",
+              "RelativeDocumentMoniker": "TRansactionBatch2App\\appsettings.json",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TRansactionBatch2App\\appsettings.json",
+              "RelativeToolTip": "TRansactionBatch2App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T22:19:45.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\DataTransferApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DataTransferApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\DataTransferApp\\appsettings.json",
+              "RelativeToolTip": "DataTransferApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T16:25:30.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDataLayer.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TransactionBatch2.Data\\IDataLayer.cs",
+              "RelativeDocumentMoniker": "TransactionBatch2.Data\\IDataLayer.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TransactionBatch2.Data\\IDataLayer.cs",
+              "RelativeToolTip": "TransactionBatch2.Data\\IDataLayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:22:15.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueryExecutorService.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\CommonServices\\QueryExecutorService.cs",
+              "RelativeDocumentMoniker": "CommonServices\\QueryExecutorService.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\CommonServices\\QueryExecutorService.cs",
+              "RelativeToolTip": "CommonServices\\QueryExecutorService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:10:50.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataTransferService.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TransactionBatch2.Business\\DataTransferService.cs",
+              "RelativeDocumentMoniker": "TransactionBatch2.Business\\DataTransferService.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TransactionBatch2.Business\\DataTransferService.cs",
+              "RelativeToolTip": "TransactionBatch2.Business\\DataTransferService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:23:39.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataTransferService.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\Business\\DataTransferService.cs",
+              "RelativeDocumentMoniker": "Business\\DataTransferService.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\Business\\DataTransferService.cs",
+              "RelativeToolTip": "Business\\DataTransferService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:03:39.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDataTransferService.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\Business\\IDataTransferService.cs",
+              "RelativeDocumentMoniker": "Business\\IDataTransferService.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\Business\\IDataTransferService.cs",
+              "RelativeToolTip": "Business\\IDataTransferService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:03:44.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataLayer.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TransactionBatch2.Data\\DataLayer.cs",
+              "RelativeDocumentMoniker": "TransactionBatch2.Data\\DataLayer.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TransactionBatch2.Data\\DataLayer.cs",
+              "RelativeToolTip": "TransactionBatch2.Data\\DataLayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:21:06.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDataLayer.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TransactionBatch.Data\\IDataLayer.cs",
+              "RelativeDocumentMoniker": "TransactionBatch.Data\\IDataLayer.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TransactionBatch.Data\\IDataLayer.cs",
+              "RelativeToolTip": "TransactionBatch.Data\\IDataLayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:54:13.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IQueryExecutorService.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\CommonServices\\IQueryExecutorService.cs",
+              "RelativeDocumentMoniker": "CommonServices\\IQueryExecutorService.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\CommonServices\\IQueryExecutorService.cs",
+              "RelativeToolTip": "CommonServices\\IQueryExecutorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:10:14.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataLayer.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TransactionBatch.Data\\DataLayer.cs",
+              "RelativeDocumentMoniker": "TransactionBatch.Data\\DataLayer.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TransactionBatch.Data\\DataLayer.cs",
+              "RelativeToolTip": "TransactionBatch.Data\\DataLayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:54:09.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommonServices.csproj",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\CommonServices\\CommonServices.csproj",
+              "RelativeDocumentMoniker": "CommonServices\\CommonServices.csproj",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\CommonServices\\CommonServices.csproj",
+              "RelativeToolTip": "CommonServices\\CommonServices.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T22:09:46.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDataLayer.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\Data\\IDataLayer.cs",
+              "RelativeDocumentMoniker": "Data\\IDataLayer.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\Data\\IDataLayer.cs",
+              "RelativeToolTip": "Data\\IDataLayer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:54:10.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataLayer.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\Data\\DataLayer.cs",
+              "RelativeDocumentMoniker": "Data\\DataLayer.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\Data\\DataLayer.cs",
+              "RelativeToolTip": "Data\\DataLayer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:09:33.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

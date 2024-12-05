@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ltMZZFb8UDQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marce\\source\\repos\\DataTransferApp\\TransactionBatch2.Data\\TransactionBatch2.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
